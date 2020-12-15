@@ -1,15 +1,7 @@
 .container{
-  flex-direction: column;
-  flex: 1;
+  text-align: center;
 }
-.firstDiv{
-  background-color: "red";
-  flex: 1;
-}
-.secondDiv{
-  background-color: "yellow";
-  flex: 2;
-}
+
 
 .App-logo {
   height: 40vmin;
