@@ -1,9 +1,14 @@
-.App {
-  text-align: center;
-  background-color:"yellow"
+.container{
+  flex-direction: column;
+  flex: 1;
 }
-.h1{
-  color: "red";
+.firstDiv{
+  background-color: "red";
+  flex: 1;
+}
+.secondDiv{
+  background-color: "yellow";
+  flex: 2;
 }
 
 .App-logo {
