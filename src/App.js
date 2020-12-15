@@ -4,12 +4,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello from V2</h1>
-      </header>
-    </div>
+   <div className="App">
+     <h1 className="h1">This is a drill!</h1>
+     <h2>Trying AWS</h2>
+   </div>
   );
 }
 
